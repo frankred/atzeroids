@@ -1,0 +1,5 @@
+package logic;
+
+public enum GameStates {
+    INTRO, ENTER_NAME, MENUE, PLAY, PLAY_PAUSED, PLAY_PLAYER_DEAD, PLAY_LEVEL_OVER, GAME_OVER,OUTRO 
+}
